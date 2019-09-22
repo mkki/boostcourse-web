@@ -32,8 +32,8 @@
 * [예약 서비스 상세페이지 - 프론트엔드](https://mkki.github.io/boostcourse/2019/08/13/boost-course-5.html)
 * [예약 서비스 예약 기능 구현 - 프론트엔드](https://mkki.github.io/boostcourse/2019/08/30/boost-course-6.html)
 * [예약 서비스 예약 기능 구현 - 백엔드](https://mkki.github.io/boostcourse/2019/09/01/boost-course-7.html)
-* [예약 서비스 한줄평 구현 - 프론트엔드]()
-* [예약 서비스 한줄평 구현 - 백엔드]()
+* [예약 서비스 한줄평 구현 - 프론트엔드](https://mkki.github.io/boostcourse/2019/09/11/boost-course-8.html)
+* [예약 서비스 한줄평 구현 - 백엔드](https://mkki.github.io/boostcourse/2019/09/12/boost-course-9.html)
 
 ### 프로젝트 리뷰 후기
 
