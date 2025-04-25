@@ -23,30 +23,26 @@
 ### 학습 내용
 
 부스트코스 에이스에 지원하기 위한 선행 강좌를 수강하고 학습한 내용입니다.
-* [웹 프로그래밍 기초](https://mkki.github.io/boostcourse/2019/07/12/boost-course-1.html)
-* [DB 연결 및 웹 앱](https://mkki.github.io/boostcourse/2019/07/14/boost-course-2.html)
-* [예약 서비스 메인페이지 - 프론트엔드](https://mkki.github.io/boostcourse/2019/07/18/boost-course-3.html)
-* [예약 서비스 메인페이지 - 백엔드](https://mkki.github.io/boostcourse/2019/07/20/boost-course-4.html)
+* [웹 프로그래밍 기초](https://github.com/mkki/boostcourse-web/issues/1)
+* [DB 연결 및 웹 앱](https://github.com/mkki/boostcourse-web/issues/2)
+* [예약 서비스 메인페이지 - 프론트엔드](https://github.com/mkki/boostcourse-web/issues/3)
+* [예약 서비스 메인페이지 - 백엔드](https://github.com/mkki/boostcourse-web/issues/4)
 
 부스트코스 에이스 과정을 진행하며 강의를 수강하고 개인적으로 학습한 내용입니다.
-* [예약 서비스 상세페이지 - 프론트엔드](https://mkki.github.io/boostcourse/2019/08/13/boost-course-5.html)
-* [예약 서비스 예약 기능 구현 - 프론트엔드](https://mkki.github.io/boostcourse/2019/08/30/boost-course-6.html)
-* [예약 서비스 예약 기능 구현 - 백엔드](https://mkki.github.io/boostcourse/2019/09/01/boost-course-7.html)
-* [예약 서비스 한줄평 구현 - 프론트엔드](https://mkki.github.io/boostcourse/2019/09/11/boost-course-8.html)
-* [예약 서비스 한줄평 구현 - 백엔드](https://mkki.github.io/boostcourse/2019/09/12/boost-course-9.html)
+* [예약 서비스 상세페이지 - 프론트엔드](https://github.com/mkki/boostcourse-web/issues/6)
+* [예약 서비스 예약 기능 구현 - 프론트엔드](https://github.com/mkki/boostcourse-web/issues/9)
+* [예약 서비스 예약 기능 구현 - 백엔드](https://github.com/mkki/boostcourse-web/issues/10)
+* [예약 서비스 한줄평 구현 - 프론트엔드](https://github.com/mkki/boostcourse-web/issues/13)
+* [예약 서비스 한줄평 구현 - 백엔드](https://github.com/mkki/boostcourse-web/issues/14)
 
 ### 프로젝트 리뷰 후기
 
 부스트코스 에이스 과정에서 수행한 프로젝트와 리뷰 후기입니다.
-* [미션 1, 예약 서비스 메인페이지 - 프론트엔드](https://mkki.github.io/boostcourse/2019/08/08/boost-course-mission-1.html)
-* [미션 2, 예약 서비스 상세페이지 - 백엔드](https://mkki.github.io/boostcourse/2019/08/23/boost-course-mission-2.html)
-* [미션 3, 예약 서비스 상세페이지 - 프론트엔드](https://mkki.github.io/boostcourse/2019/08/26/boost-course-mission-3.html)
-* [미션 4, 예약 서비스 예약 기능 구현 - 백엔드](https://mkki.github.io/boostcourse/2019/09/10/boost-course-mission-4.html)
-* [미션 5, 예약 서비스 예약 기능 구현 - 프론트엔드](https://mkki.github.io/boostcourse/2019/09/10/boost-course-mission-5.html)
-* [마지막 미션, 예약 서비스 한줄평 구현 - 백엔드]()
-
-미션은 완료되었지만 마지막 프로젝트의 프론트엔드 코드도 리뷰 받고 싶어 개인적으로 진행했습니다.
-* [예약 서비스 한줄평 구현 - 프론트엔드]()
+* [미션 1, 예약 서비스 메인페이지 - 프론트엔드](https://github.com/mkki/boostcourse-web/issues/5)
+* [미션 2, 예약 서비스 상세페이지 - 백엔드](https://github.com/mkki/boostcourse-web/issues/7)
+* [미션 3, 예약 서비스 상세페이지 - 프론트엔드](https://github.com/mkki/boostcourse-web/issues/8)
+* [미션 4, 예약 서비스 예약 기능 구현 - 백엔드](https://github.com/mkki/boostcourse-web/issues/11)
+* [미션 5, 예약 서비스 예약 기능 구현 - 프론트엔드](https://github.com/mkki/boostcourse-web/issues/12)
 
 ## 3. 수강 후기
 
